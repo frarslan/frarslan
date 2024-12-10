@@ -1,5 +1,8 @@
 ## Hello everyone. 👋
 Hello, my name is Faruk. I love working on coding. I am currently designing mobile applications with Flutter. I was previously doing it with Java. I really liked the flexibility in Flutter and decided to learn Flutter and develop applications.
+
+- 🌱 I’m currently learning Flutter and Dart.
+
 <!--
 **frarslan/frarslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
